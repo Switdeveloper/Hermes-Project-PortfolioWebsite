@@ -203,6 +203,41 @@ p {
     color: var(--color-bg);
 }
 
+/* Contact form */
+.contact-section {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: calc(var(--spacing-unit) * 4);
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: calc(var(--spacing-unit) * 2);
+    font-weight: bold;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: calc(var(--spacing-unit) * 2);
+    border: var(--border-width) solid var(--color-border);
+    border-radius: var(--border-radius);
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-body);
+    font-size: 1rem;
+    transition: border-color var(--transition-speed);
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--color-accent);
+}
+
 /* Footer */
 footer {
     text-align: center;
