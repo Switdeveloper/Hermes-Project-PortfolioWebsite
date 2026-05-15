@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Project Alpha",
+    "description": "A responsive weather dashboard with real-time data.",
+    "image": "https://via.placeholder.com/300x200?text=Weather+Dashboard",
+    "link": "https://example.com/project-alpha",
+    "tags": ["JavaScript", "API", "CSS"]
+  },
+  {
+    "title": "Project Beta",
+    "description": "An e-commerce product catalog with filtering.",
+    "image": "https://via.placeholder.com/300x200?text=E-commerce",
+    "link": "https://example.com/project-beta",
+    "tags": ["React", "Node.js", "MongoDB"]
+  },
+  {
+    "title": "Project Gamma",
+    "description": "A personal blog platform with markdown support.",
+    "image": "https://via.placeholder.com/300x200?text=Blog+Platform",
+    "link": "https://example.com/project-gamma",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Project Delta",
+    "description": "A task management app with drag-and-drop.",
+    "image": "https://via.placeholder.com/300x200?text=Task+Manager",
+    "link": "https://example.com/project-delta",
+    "tags": ["Vue.js", "Firebase"]
+  }
+]
